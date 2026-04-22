@@ -1,1 +1,7 @@
-{"name":"open-generative-ai","version":2}
+{
+  "name": "open-generative-ai",
+  "version": 2,
+  "publicEnv": {
+    "NEXT_PUBLIC_MUAPI_WELCOME": "Add your Muapi API key in the app settings after deployment. Get your key at https://muapi.ai → Dashboard → API"
+  }
+}
